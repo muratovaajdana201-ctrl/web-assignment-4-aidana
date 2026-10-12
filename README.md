@@ -28,7 +28,6 @@ I tested it. When I left the field empty, the browser did not send the form and 
 
 ![Task 1 - empty field](screenshotsaidana/task1_empty.png)
 
-![Task 1 - wrong email](screenshotsaidana/task1_email.png)
 
 ## Part 2. Bootstrap Forms
 
